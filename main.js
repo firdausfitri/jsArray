@@ -52,9 +52,9 @@ console.log(mixArray[2]) // output: tomato
 console.log(mixArray[2].tomato) // output: f() {console.log("ini tomato")}
 mixArray[2].tomato()
 
-//below is to get the list of element in array
+//below is to get the list of element in array (list of)
 for(list of mixArray) console.log(list)
-//below is to get the list of index in array
+//below is to get the list of index in array (list in)
 for(list in mixArray) console.log(list)
 
 
